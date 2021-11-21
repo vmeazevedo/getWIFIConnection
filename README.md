@@ -23,4 +23,5 @@ Para configurar o sistema para desenvolvimento em sua máquina local, siga as in
 ![1](https://user-images.githubusercontent.com/40063504/142780183-ab4df7f3-d85e-4a7f-b3d6-e0f100df49b1.png)
 
 - Recebimento dos dados no email configurado
+
 ![2](https://user-images.githubusercontent.com/40063504/142780185-fbbaf526-66e9-401d-b446-7a8cdbbfcaf4.png)
